@@ -76,12 +76,12 @@ const Layers = () => {
       <Layer
         scrollYProgress={scrollYProgress}
         imagePath="/images/hair.png"
-        upLift={210}
+        upLift={240}
       />
       <Layer
         scrollYProgress={scrollYProgress}
         imagePath="/images/hat.png"
-        upLift={230}
+        upLift={270}
       />
       <Layer
         scrollYProgress={scrollYProgress}
@@ -91,7 +91,7 @@ const Layers = () => {
       <Layer
         scrollYProgress={scrollYProgress}
         imagePath="/images/earrings.png"
-        upLift={220}
+        upLift={250}
       />
     </div>
   );
